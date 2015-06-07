@@ -10,7 +10,7 @@ define(['jquery', 'utilities/Events', 'utilities/Broadcast'],
 
         /*
             Store a reference the main content div
-            This is where ecerything goes
+            This is where everything goes
         */
         elContent = $('#content');
     }
