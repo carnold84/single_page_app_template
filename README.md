@@ -8,6 +8,7 @@ Simple template for creating a single page app.
 * Includes helper utilities Broadcast (Pub/sub), Events and Ajax (in progress).
 * Includes normalize (_reset.scss) CSS reset.
 
-# Set Up
+## Set Up
 Requires Grunt CLI (http://gruntjs.com/getting-started) and SASS (http://sass-lang.com/install) to be installed.
+
 1. Run the command     grunt in the folder to run the Grunt tasks
