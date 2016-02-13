@@ -7,7 +7,7 @@ module.exports = function(grunt) {
             dist : {
                 options : {
                     style : 'compressed',
-                    sourcemap : 'none',
+                    sourcemap : 'none'
                 },
                 files : [{
                     expand : true,
@@ -26,7 +26,7 @@ module.exports = function(grunt) {
                     paths : {
 
                         utilities : '../utilities',
-                        jquery : '../libs/jquery-2.1.4.min'
+                        jquery : '../libs/jquery-2.2.0'
                     },
                     name : '../app',
                     out : 'build/js/app-built.js'

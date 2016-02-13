@@ -4,7 +4,7 @@ requirejs.config ({
     paths : {
         
         utilities : '../utilities',
-        jquery : '../libs/jquery-2.1.4.min'
+        jquery : '../libs/jquery-2.2.0'
     }
 });
 
