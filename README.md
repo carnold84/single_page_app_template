@@ -11,4 +11,10 @@ Simple template for creating a single page app.
 ## Set Up
 Requires Grunt CLI (http://gruntjs.com/getting-started) and SASS (http://sass-lang.com/install) to be installed.
 
-1. Run the command     grunt in the folder to run the Grunt tasks
+1. Run 
+    npm install
+in root folder to install required node modules
+
+2. Run
+    grunt
+in the root folder to run the Grunt tasks

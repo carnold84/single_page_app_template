@@ -1,6 +1,6 @@
 requirejs.config ({
 
-    baseUrl : 'app', // base url is directory of the actual app
+    baseUrl : '../src/app', // base url is directory of the actual app
     paths : {
         
         utilities : '../utilities',
